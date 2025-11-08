@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: rgb(255, 182, 64);
+}
+.menu {
+    text-decoration: none;
+    color: black;
+    padding-left: 60px;
+}
+.all-menu   {
+    padding-top: 10px;
+    border: 5px;
+    border-color: black;
+    color: brown;
+    font-size: 20px;
+}
